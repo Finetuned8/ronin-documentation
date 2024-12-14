@@ -1,4 +1,4 @@
----
+Finetuned8---
 description: Register, manage, and trade your RNS names.
 slug: /apps/rns
 title: RNS
